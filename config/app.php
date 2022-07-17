@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Smart Tech Inc'),
+    'name' => env('APP_NAME', 'Smart Codes'),
 
     /*
     |--------------------------------------------------------------------------

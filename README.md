@@ -36,7 +36,7 @@
   ```
      php artisan optimize:clear
   
-      php artisan serve
+     php artisan serve
   ```
   
   - Install Node & Npm
