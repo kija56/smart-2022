@@ -30,6 +30,10 @@
 
   `php artisan migrate`
   
+- Install Node & Npm
+
+     `npm install && npm run dev`
+
 - Start application
   - clear cache
 
@@ -38,8 +42,3 @@
   
      php artisan serve
   ```
-  
-  - Install Node & Npm
-
-     `npm install && npm run dev`
-
